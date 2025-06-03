@@ -7,6 +7,7 @@ of the other persons's repositories used here. If not, theire names are still in
 I'm currently using NeoVim for taking notes during my lectures as an engineering student. I make these using LaTeX. The snippets that I use
 and basically all my LaTeX related can be found in evesdropper/luasnip-latex-snippets.nvim. I believe it's really well explained I really liked
 the snippets. Go check it out on his GitHub page. For the rest, it's a really simple configuration using Lazy Nvim. 
+*Important! before doing anything go to :LazyExtras and enable any important extras*
 ### Terminal
 Just got rid of the top bar. Currently using Fish instead of Bash as I find it a lot more usesful. Also, I'm using Starship as my shell prompt with I think the Nerd Font Preset 
 using Hack Nerd Font.
